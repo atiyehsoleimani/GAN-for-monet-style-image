@@ -1,0 +1,6 @@
+[project]
+name = "monet-cyclegan"
+version = "0.1.0"
+description = "CycleGAN that turns photos into Monet-style paintings"
+requires-python = ">=3.10"
+dependencies = ["tensorflow", "numpy", "pillow", "matplotlib", "pandas", "kaggle", "jupyter"]
